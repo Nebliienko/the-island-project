@@ -1,2 +1,6 @@
 rootProject.name = 'tip'
+include 'tip-persistance'
+include 'tip-service'
+include 'tip-db'
+include 'tip-ui'
 
